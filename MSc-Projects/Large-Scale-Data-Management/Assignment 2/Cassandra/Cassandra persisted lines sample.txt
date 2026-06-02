@@ -1,0 +1,57 @@
+SELECT person_name, listen_hour, listened_at, song_name, artists, danceability, energy, tempo
+FROM spotify.person_hour_song_history
+LIMIT 50;
+
+
+ person_name | listen_hour      | listened_at                     | song_name                         | artists                                     | danceability | energy | tempo
+-------------+------------------+---------------------------------+-----------------------------------+---------------------------------------------+--------------+--------+---------
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:11:42.120000+0000 |                            CHOUHA |                              Bo9al, ASHE 22 |        0.906 |  0.446 | 139.966
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:11:57.175000+0000 |             Lonely This Christmas |                                         Mud |        0.551 |  0.325 |  98.932
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:12:05.224000+0000 |       MONEY ON THE DASH - SPED UP |                         Elley Duhé, Whethan |        0.777 |  0.816 |  150.09
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:12:14.303000+0000 |                          Žiburiai |                                 Jessica Shy |        0.663 |  0.422 |   95.05
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:12:29.356000+0000 |                      Miss my Home |                                   Nimo, Eno |        0.726 |   0.73 |  94.038
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:12:39.403000+0000 |                            ВМЕСТЕ |                          Aarne, BUSHIDO ZHO |        0.772 |  0.785 |  143.91
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:12:46.449000+0000 |                             BELLA |                                     SIDARTA |        0.757 |  0.563 |  84.017
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:01.520000+0000 |                            Stúfur |                     Baggalútur, Friðrik Dór |        0.671 |  0.667 | 120.859
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:11.605000+0000 |                            Lavida |                                       Pryme |        0.734 |   0.64 | 111.732
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:21.649000+0000 |                         Stockholm |                                Peg Parnevik |        0.436 |  0.388 | 151.671
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:29.700000+0000 |                             Intro |                                     Luciano |        0.642 |   0.58 | 140.161
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:34.745000+0000 |                      Nada Con Vos |                        Paloma Lomax, Sharik |        0.879 |  0.544 |  91.988
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:45.795000+0000 |                         Łakomstwo |                                     PRO8L3M |        0.393 |  0.686 | 161.426
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:52.846000+0000 |              Afară Ninge Liniştit |                               Stefan Hrusca |         0.45 |  0.135 |  97.295
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:13:58.898000+0000 |                          Culiacan |      Engel Montaz, Kuv507, Latinnites Music |        0.701 |  0.567 |  144.99
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:14:10.975000+0000 |                        Terasa Ada |                              Sufian Suhaimi |        0.489 |  0.644 | 180.015
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:14:24.022000+0000 |                              อิจฉา |                                       MEYOU |         0.55 |   0.54 | 136.167
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:14:39.073000+0000 |                          Ape Song |                                Viktor Sheen |        0.684 |  0.535 | 179.904
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:14:46.116000+0000 |                         Mr Reggae |                                      L.A.B. |        0.829 |  0.701 | 164.035
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:15:00.175000+0000 |               The Real Slim Shady |                                      Eminem |        0.949 |  0.661 | 104.504
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:15:05.219000+0000 |                       Carry me go |                                       Jvson |        0.872 |  0.487 | 113.045
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:15:17.273000+0000 |           Un Millón de Primaveras |                           Vicente Fernández |         0.73 |  0.341 | 100.558
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:15:28.324000+0000 |                  ياحلوه يا مظلومه |                                    ابو سراج |        0.544 |  0.992 | 149.957
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:15:35.368000+0000 |       Hit Me Up (feat. Nomovodka) |                             Binz, Nomovodka |        0.775 |   0.44 |  99.993
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:15:47.415000+0000 |                       Hautajaiset |                          Gettomasa, Sexmane |        0.666 |  0.705 | 174.145
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:15:58.455000+0000 |             Anestesiado - Ao Vivo |                                 Murilo Huff |         0.53 |  0.855 | 159.966
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:16:13.488000+0000 |                   Downers At Dusk |                          Talha Anjum, Umair |        0.856 |  0.447 | 120.069
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:16:24.533000+0000 |                        Last of us |                           MiyaGi & Endspiel |         0.67 |   0.53 |   76.97
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:16:36.581000+0000 |                     Waste No Time |                        Siles Hendrix, Ekene |        0.914 |  0.526 |  93.005
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:16:41.624000+0000 |                        Baarishein |                                   Anuv Jain |        0.476 |  0.124 |  94.299
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:16:50.667000+0000 |             Chooky - Busta Rhymes |            O.T, Busta Rhymes, Elesia Iimura |        0.851 |  0.782 |  95.983
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:17:05.725000+0000 |                            Я и ты |                                       JAPYR |        0.859 |  0.289 |  129.91
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:17:18.777000+0000 |                        Na Contigo |                           Chimbala, Darmiko |        0.908 |  0.736 | 127.981
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:17:28.821000+0000 |                   Zihaal e Miskin | Javed-Mohsin, Vishal Mishra, Shreya Ghoshal |        0.581 |  0.632 | 128.844
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:17:42.874000+0000 |                        Пару минут |                                     Jaman T |        0.742 |  0.398 | 130.024
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:17:56.924000+0000 |                           Mi Amor |                        Sharn, 40k, The Paul |        0.637 |  0.703 |   81.99
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:18:05.963000+0000 |                        ):阿修羅:( |                                    King Gnu |         0.62 |  0.856 | 170.004
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:18:12.006000+0000 |                    Piano Merengue |                                     Damiron |        0.684 |  0.465 | 123.257
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:18:22.049000+0000 |                      Florin Salam |                    Tzanca Uraganu, Mr. Juve |        0.661 |  0.846 |  175.99
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:18:33.084000+0000 | Restiamo Soli (feat. Fabri Fibra) |                       Gemitaiz, Fabri Fibra |        0.637 |  0.733 | 188.183
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:18:41.124000+0000 |                        Konstnärer |                                 Asme, Shiro |        0.728 |  0.597 | 105.121
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:18:55.167000+0000 |          Ballon d'Or (feat. Nayt) |                              Gemitaiz, Nayt |        0.801 |  0.682 | 104.958
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:19:07.212000+0000 |                       JET_Set.mp3 |                        Emilia, NATHY PELUSO |        0.658 |  0.798 | 135.515
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:19:15.255000+0000 |                         Me Escapé |                DobleP, Lauty Gram, Gusty dj |        0.844 |   0.68 | 100.109
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:19:24.305000+0000 |               Faz Completo, Chefe |                                Mc IG, DJ WN |        0.714 |  0.373 | 165.935
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:19:38.348000+0000 |                             Jinja |                                     Olamide |        0.898 |  0.735 |  95.992
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:19:47.389000+0000 |                   I know who i am |                                       Jvson |        0.743 |  0.596 | 114.002
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:19:54.438000+0000 |                     Разбити мечти |                               Lidia, Debora |        0.592 |  0.942 | 167.947
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:20:00.481000+0000 |       Astronaut - Spotify Singles |                                     Bolaget |        0.632 |   0.82 | 125.937
+  Jay Walker | 2026-04-02 16:00 | 2026-04-02 16:20:05.539000+0000 |                           Navidad |                            Los Toribianitos |        0.668 |   0.56 | 143.159
