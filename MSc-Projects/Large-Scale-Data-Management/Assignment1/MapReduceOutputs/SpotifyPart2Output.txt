@@ -1,0 +1,288 @@
+AE:2023-10	I KNOW ?: 0.927, avg: 0.657
+AE:2023-11	Lovin On Me: 0.943, avg: 0.659
+AE:2023-12	Lovin On Me: 0.943, avg: 0.630
+AE:2024-01	Lovin On Me: 0.943, avg: 0.655
+AR:2023-10	PERRO NEGRO: 0.911, avg: 0.749
+AR:2023-11	24/7 6.5: 0.925, avg: 0.750
+AR:2023-12	PERRO NEGRO: 0.911, avg: 0.740
+AR:2024-01	PERRO NEGRO: 0.911, avg: 0.731
+AT:2023-10	Sprinter: 0.916, avg: 0.688
+AT:2023-11	Lovin On Me: 0.943, avg: 0.658
+AT:2023-12	Lovin On Me: 0.943, avg: 0.591
+AT:2024-01	Lovin On Me: 0.943, avg: 0.670
+AU:2023-10	Sprinter: 0.916, avg: 0.642
+AU:2023-11	Lovin On Me: 0.943, avg: 0.638
+AU:2023-12	Lovin On Me: 0.943, avg: 0.615
+AU:2024-01	Lovin On Me: 0.943, avg: 0.652
+BE:2023-10	Arranca (feat. Omega): 0.931, avg: 0.651
+BE:2023-11	Lovin On Me: 0.943, avg: 0.633
+BE:2023-12	The Real Slim Shady: 0.949, avg: 0.602
+BE:2024-01	Lovin On Me: 0.943, avg: 0.616
+BG:2023-10	I KNOW ?: 0.927, avg: 0.712
+BG:2023-11	Lovin On Me: 0.943, avg: 0.705
+BG:2023-12	The Real Slim Shady: 0.949, avg: 0.681
+BG:2024-01	Bez Ruce: 0.968, avg: 0.719
+BO:2023-10	AMARGURA: 0.920, avg: 0.732
+BO:2023-11	AMARGURA: 0.920, avg: 0.727
+BO:2023-12	AMARGURA: 0.920, avg: 0.717
+BO:2024-01	AMARGURA: 0.920, avg: 0.720
+BR:2023-10	Toca o Trompete: 0.947, avg: 0.682
+BR:2023-11	Toca o Trompete: 0.947, avg: 0.679
+BR:2023-12	Toca o Trompete: 0.947, avg: 0.663
+BR:2024-01	Toca o Trompete: 0.947, avg: 0.665
+BY:2023-10	IT GIRL: 0.969, avg: 0.681
+BY:2023-11	City Boy Life: 0.955, avg: 0.693
+BY:2023-12	Мечты: 0.945, avg: 0.682
+BY:2024-01	Нефертити: 0.988, avg: 0.683
+CA:2023-10	I KNOW ?: 0.927, avg: 0.644
+CA:2023-11	Lovin On Me: 0.943, avg: 0.622
+CA:2023-12	Lovin On Me: 0.943, avg: 0.593
+CA:2024-01	Lovin On Me: 0.943, avg: 0.659
+CH:2023-10	Sprinter: 0.916, avg: 0.671
+CH:2023-11	Lovin On Me: 0.943, avg: 0.650
+CH:2023-12	Lovin On Me: 0.943, avg: 0.588
+CH:2024-01	Lovin On Me: 0.943, avg: 0.646
+CL:2023-10	AMARGURA: 0.920, avg: 0.766
+CL:2023-11	24/7 6.5: 0.925, avg: 0.773
+CL:2023-12	24/7 6.5: 0.925, avg: 0.768
+CL:2024-01	24/7 6.5: 0.925, avg: 0.775
+CO:2023-10	AMARGURA: 0.920, avg: 0.762
+CO:2023-11	AMARGURA: 0.920, avg: 0.771
+CO:2023-12	AMARGURA: 0.920, avg: 0.765
+CO:2024-01	AMARGURA: 0.920, avg: 0.771
+CR:2023-10	AMARGURA: 0.920, avg: 0.738
+CR:2023-11	AMARGURA: 0.920, avg: 0.736
+CR:2023-12	AMARGURA: 0.920, avg: 0.728
+CR:2024-01	AMARGURA: 0.920, avg: 0.724
+CZ:2023-10	Můj space: 0.929, avg: 0.709
+CZ:2023-11	Můj space: 0.929, avg: 0.697
+CZ:2023-12	Pussy Power (feat. Porsche Boy): 0.900, avg: 0.642
+CZ:2024-01	Lovin On Me: 0.943, avg: 0.694
+DE:2023-10	Hässlich: 0.914, avg: 0.695
+DE:2023-11	Lovin On Me: 0.943, avg: 0.679
+DE:2023-12	Lovin On Me: 0.943, avg: 0.614
+DE:2024-01	Lovin On Me: 0.943, avg: 0.687
+DK:2023-10	Sprinter: 0.916, avg: 0.713
+DK:2023-11	Lovin On Me: 0.943, avg: 0.677
+DK:2023-12	Lovin On Me: 0.943, avg: 0.604
+DK:2024-01	Lovin On Me: 0.943, avg: 0.719
+DO:2023-10	AMARGURA: 0.920, avg: 0.765
+DO:2023-11	Tony: 0.949, avg: 0.763
+DO:2023-12	AMARGURA: 0.920, avg: 0.756
+DO:2024-01	DIOS ES LA VUELTA: 0.954, avg: 0.742
+EC:2023-10	AMARGURA: 0.920, avg: 0.769
+EC:2023-11	AMARGURA: 0.920, avg: 0.780
+EC:2023-12	AMARGURA: 0.920, avg: 0.774
+EC:2024-01	AMARGURA: 0.920, avg: 0.783
+EE:2023-10	IT GIRL: 0.969, avg: 0.676
+EE:2023-11	IT GIRL: 0.969, avg: 0.661
+EE:2023-12	The Real Slim Shady: 0.949, avg: 0.626
+EE:2024-01	Lovin On Me: 0.943, avg: 0.657
+EG:2023-10	Wahshteeny: 0.958, avg: 0.716
+EG:2023-11	Wahshteeny: 0.958, avg: 0.691
+EG:2023-12	سطلانة: 0.935, avg: 0.682
+EG:2024-01	سطلانة: 0.935, avg: 0.681
+ES:2023-10	NO ME QUIERO CASAR: 0.914, avg: 0.737
+ES:2023-11	PERRO NEGRO: 0.911, avg: 0.746
+ES:2023-12	PERRO NEGRO: 0.911, avg: 0.733
+ES:2024-01	DESPECHÁ: 0.914, avg: 0.739
+FI:2023-10	Tarinoit Vantaalt: 0.926, avg: 0.715
+FI:2023-11	Lovin On Me: 0.943, avg: 0.708
+FI:2023-12	Lovin On Me: 0.943, avg: 0.667
+FI:2024-01	Lovin On Me: 0.943, avg: 0.685
+FR:2023-10	Arranca (feat. Omega): 0.931, avg: 0.705
+FR:2023-11	Arranca (feat. Omega): 0.931, avg: 0.691
+FR:2023-12	Beuh d'Hollande: 0.959, avg: 0.667
+FR:2024-01	Beuh d'Hollande: 0.959, avg: 0.687
+GB:2023-10	Sprinter: 0.916, avg: 0.631
+GB:2023-11	Lovin On Me: 0.943, avg: 0.610
+GB:2023-12	The Real Slim Shady: 0.949, avg: 0.568
+GB:2024-01	Lovin On Me: 0.943, avg: 0.625
+GR:2023-10	Ola Kala: 0.940, avg: 0.728
+GR:2023-11	Ola Kala: 0.940, avg: 0.729
+GR:2023-12	Blue Iguana: 0.928, avg: 0.718
+GR:2024-01	Blue Iguana: 0.928, avg: 0.718
+GT:2023-10	AMARGURA: 0.920, avg: 0.738
+GT:2023-11	AMARGURA: 0.920, avg: 0.737
+GT:2023-12	AMARGURA: 0.920, avg: 0.738
+GT:2024-01	AMARGURA: 0.920, avg: 0.735
+HK:2023-10	Monster: 0.913, avg: 0.616
+HK:2023-11	BATTER UP: 0.903, avg: 0.608
+HK:2023-12	BATTER UP: 0.903, avg: 0.608
+HK:2024-01	Lovin On Me: 0.943, avg: 0.603
+HN:2023-10	AMARGURA: 0.920, avg: 0.744
+HN:2023-11	AMARGURA: 0.920, avg: 0.754
+HN:2023-12	AMARGURA: 0.920, avg: 0.753
+HN:2024-01	AMARGURA: 0.920, avg: 0.757
+HU:2023-10	Gurulgatok: 0.926, avg: 0.720
+HU:2023-11	Gurulgatok: 0.926, avg: 0.722
+HU:2023-12	Ezer Nap: 0.979, avg: 0.671
+HU:2024-01	Lovin On Me: 0.943, avg: 0.728
+ID:2023-10	3D (feat. Jack Harlow): 0.853, avg: 0.531
+ID:2023-11	3D (feat. Jack Harlow): 0.853, avg: 0.528
+ID:2023-12	Seven (feat. Latto) (Explicit Ver.): 0.790, avg: 0.518
+ID:2024-01	greedy: 0.750, avg: 0.521
+IE:2023-10	Sprinter: 0.916, avg: 0.616
+IE:2023-11	Lovin On Me: 0.943, avg: 0.598
+IE:2023-12	Lovin On Me: 0.943, avg: 0.557
+IE:2024-01	Lovin On Me: 0.943, avg: 0.614
+IL:2023-10	שלוק מהבלו: 0.921, avg: 0.598
+IL:2023-11	פחד אלוהים: 0.884, avg: 0.585
+IL:2023-12	The Real Slim Shady: 0.949, avg: 0.589
+IL:2024-01	Lovin On Me: 0.943, avg: 0.585
+IN:2023-10	Karu Karu Karupayi: 0.929, avg: 0.681
+IN:2023-11	Check It Out: 0.923, avg: 0.666
+IN:2023-12	Kinni Kinni: 0.883, avg: 0.628
+IN:2024-01	Kinni Kinni: 0.883, avg: 0.632
+IS:2023-10	Vinn Við Það: 0.929, avg: 0.682
+IS:2023-11	Lovin On Me: 0.943, avg: 0.662
+IS:2023-12	Lovin On Me: 0.943, avg: 0.615
+IS:2024-01	Lovin On Me: 0.943, avg: 0.683
+IT:2023-10	Hoe (feat. Sfera Ebbasta): 0.936, avg: 0.707
+IT:2023-11	Hoe (feat. Sfera Ebbasta): 0.936, avg: 0.701
+IT:2023-12	Petit Fou Fou (feat. ANNA): 0.949, avg: 0.676
+IT:2024-01	Petit Fou Fou (feat. ANNA): 0.949, avg: 0.703
+JP:2023-10	Mainstream: 0.901, avg: 0.598
+JP:2023-11	Mainstream: 0.901, avg: 0.603
+JP:2023-12	Mainstream: 0.901, avg: 0.579
+JP:2024-01	Bling-Bang-Bang-Born: 0.853, avg: 0.578
+KR:2023-10	Love Lee: 0.914, avg: 0.666
+KR:2023-11	Love Lee: 0.914, avg: 0.608
+KR:2023-12	UNLOVE (prod. HONNE): 0.920, avg: 0.610
+KR:2024-01	Lovin On Me: 0.943, avg: 0.627
+KZ:2023-10	Adjare Gudju: 0.969, avg: 0.737
+KZ:2023-11	Adjare Gudju: 0.969, avg: 0.728
+KZ:2023-12	Adjare Gudju: 0.969, avg: 0.729
+KZ:2024-01	Нефертити: 0.988, avg: 0.730
+LT:2023-10	IT GIRL: 0.969, avg: 0.712
+LT:2023-11	IT GIRL: 0.969, avg: 0.699
+LT:2023-12	Lovin On Me: 0.943, avg: 0.644
+LT:2024-01	Lovin On Me: 0.943, avg: 0.699
+LU:2023-10	Arranca (feat. Omega): 0.931, avg: 0.685
+LU:2023-11	Lovin On Me: 0.943, avg: 0.653
+LU:2023-12	Lovin On Me: 0.943, avg: 0.600
+LU:2024-01	Lovin On Me: 0.943, avg: 0.654
+LV:2023-10	IT GIRL: 0.969, avg: 0.672
+LV:2023-11	IT GIRL: 0.969, avg: 0.657
+LV:2023-12	Milzīte Ilzīte: 0.961, avg: 0.604
+LV:2024-01	Lovin On Me: 0.943, avg: 0.646
+MA:2023-10	Sprinter: 0.916, avg: 0.700
+MA:2023-11	ZOK: 0.890, avg: 0.693
+MA:2023-12	CHOUHA: 0.906, avg: 0.668
+MA:2024-01	HELMA: 0.907, avg: 0.681
+MX:2023-10	PERRO NEGRO: 0.911, avg: 0.729
+MX:2023-11	PERRO NEGRO: 0.911, avg: 0.724
+MX:2023-12	MARTILLAZO: 0.918, avg: 0.739
+MX:2024-01	Tacata (Remix): 0.922, avg: 0.744
+MY:2023-10	Paint The Town Red: 0.864, avg: 0.600
+MY:2023-11	BATTER UP: 0.903, avg: 0.606
+MY:2023-12	BATTER UP: 0.903, avg: 0.603
+MY:2024-01	BATTER UP: 0.903, avg: 0.594
+NG:2023-10	Things on Things: 0.942, avg: 0.767
+NG:2023-11	Wet on Me: 0.942, avg: 0.783
+NG:2023-12	Things on Things: 0.942, avg: 0.781
+NG:2024-01	Things on Things: 0.942, avg: 0.782
+NI:2023-10	AMARGURA: 0.920, avg: 0.744
+NI:2023-11	Without You: 0.926, avg: 0.750
+NI:2023-12	AMARGURA: 0.920, avg: 0.748
+NI:2024-01	AMARGURA: 0.920, avg: 0.747
+NL:2023-10	Sprinter: 0.916, avg: 0.646
+NL:2023-11	Hij Komt, Hij Komt: 0.955, avg: 0.660
+NL:2023-12	Hij Komt, Hij Komt: 0.955, avg: 0.609
+NL:2024-01	Lovin On Me: 0.943, avg: 0.660
+NO:2023-10	Sprinter: 0.916, avg: 0.630
+NO:2023-11	Lovin On Me: 0.943, avg: 0.608
+NO:2023-12	Lovin On Me: 0.943, avg: 0.533
+NO:2024-01	Lovin On Me: 0.943, avg: 0.615
+NZ:2023-10	In the Air: 0.974, avg: 0.653
+NZ:2023-11	In the Air: 0.974, avg: 0.658
+NZ:2023-12	In the Air: 0.974, avg: 0.624
+NZ:2024-01	In the Air: 0.974, avg: 0.670
+PA:2023-10	AMARGURA: 0.920, avg: 0.747
+PA:2023-11	AMARGURA: 0.920, avg: 0.752
+PA:2023-12	AMARGURA: 0.920, avg: 0.738
+PA:2024-01	AMARGURA: 0.920, avg: 0.734
+PE:2023-10	AMARGURA: 0.920, avg: 0.761
+PE:2023-11	AMARGURA: 0.920, avg: 0.768
+PE:2023-12	AMARGURA: 0.920, avg: 0.772
+PE:2024-01	AMARGURA: 0.920, avg: 0.760
+PH:2023-10	LWKY: 0.926, avg: 0.645
+PH:2023-11	LWKY: 0.926, avg: 0.639
+PH:2023-12	MY THANG (GO GETTA 2): 0.975, avg: 0.622
+PH:2024-01	MY THANG (GO GETTA 2): 0.975, avg: 0.627
+PK:2023-10	Dior: 0.967, avg: 0.720
+PK:2023-11	Dior: 0.967, avg: 0.714
+PK:2023-12	Dior: 0.967, avg: 0.695
+PK:2024-01	Dior: 0.967, avg: 0.688
+PL:2023-10	ITALODISCO: 0.885, avg: 0.680
+PL:2023-11	Cringowy Lovesong: 0.927, avg: 0.686
+PL:2023-12	ITALODISCO: 0.885, avg: 0.632
+PL:2024-01	Lovin On Me: 0.943, avg: 0.694
+PT:2023-10	Faz um Vuk Vuk (Teto Espelhado): 0.920, avg: 0.711
+PT:2023-11	Faz um Vuk Vuk (Teto Espelhado): 0.920, avg: 0.714
+PT:2023-12	Faz um Vuk Vuk (Teto Espelhado): 0.920, avg: 0.694
+PT:2024-01	Lovin On Me: 0.943, avg: 0.706
+PY:2023-10	PERRO NEGRO: 0.911, avg: 0.715
+PY:2023-11	PERRO NEGRO: 0.911, avg: 0.716
+PY:2023-12	PERRO NEGRO: 0.911, avg: 0.716
+PY:2024-01	PERRO NEGRO: 0.911, avg: 0.720
+RO:2023-10	Cariceps: 0.963, avg: 0.748
+RO:2023-11	Cariceps: 0.963, avg: 0.749
+RO:2023-12	Țigancă Balcanică: 0.962, avg: 0.713
+RO:2024-01	Cariceps: 0.963, avg: 0.758
+SA:2023-10	MONTAGEM - PR FUNK: 0.877, avg: 0.625
+SA:2023-11	كده كده بايظه: 0.892, avg: 0.624
+SA:2023-12	The Real Slim Shady: 0.949, avg: 0.624
+SA:2024-01	Lovin On Me: 0.943, avg: 0.621
+SE:2023-10	Gas: 0.922, avg: 0.613
+SE:2023-11	KIKI: 0.982, avg: 0.623
+SE:2023-12	Black Owned Business: 0.968, avg: 0.563
+SE:2024-01	Lovin On Me: 0.943, avg: 0.640
+SG:2023-10	Monster: 0.913, avg: 0.649
+SG:2023-11	BATTER UP: 0.903, avg: 0.654
+SG:2023-12	Lovin On Me: 0.943, avg: 0.637
+SG:2024-01	Lovin On Me: 0.943, avg: 0.652
+SK:2023-10	Můj space: 0.929, avg: 0.713
+SK:2023-11	Lovin On Me: 0.943, avg: 0.683
+SK:2023-12	The Real Slim Shady: 0.949, avg: 0.626
+SK:2024-01	Lovin On Me: 0.943, avg: 0.688
+SV:2023-10	AMARGURA: 0.920, avg: 0.748
+SV:2023-11	AMARGURA: 0.920, avg: 0.757
+SV:2023-12	Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]: 0.933, avg: 0.759
+SV:2024-01	Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]: 0.933, avg: 0.767
+TH:2023-10	Paint The Town Red: 0.864, avg: 0.630
+TH:2023-11	BATTER UP: 0.903, avg: 0.631
+TH:2023-12	BATTER UP: 0.903, avg: 0.625
+TH:2024-01	Left and Right (Feat. Jung Kook of BTS): 0.881, avg: 0.624
+TR:2023-10	ARABA: 0.866, avg: 0.643
+TR:2023-11	ARABA: 0.866, avg: 0.640
+TR:2023-12	ARABA: 0.866, avg: 0.639
+TR:2024-01	DOĞUŞTAN BERİ HAKLIYIM (tmm): 0.889, avg: 0.625
+TW:2023-10	Love Lee: 0.914, avg: 0.617
+TW:2023-11	Love Lee: 0.914, avg: 0.605
+TW:2023-12	BATTER UP: 0.903, avg: 0.620
+TW:2024-01	BATTER UP: 0.903, avg: 0.635
+UA:2023-10	IT GIRL: 0.969, avg: 0.721
+UA:2023-11	IT GIRL: 0.969, avg: 0.719
+UA:2023-12	Я щаслива - Лікарі кажуть: 0.925, avg: 0.696
+UA:2024-01	Нефертити: 0.988, avg: 0.720
+US:2023-10	I KNOW ?: 0.927, avg: 0.644
+US:2023-11	Lovin On Me: 0.943, avg: 0.628
+US:2023-12	Lovin On Me: 0.943, avg: 0.598
+US:2024-01	Lovin On Me: 0.943, avg: 0.667
+UY:2023-10	PERRO NEGRO: 0.911, avg: 0.744
+UY:2023-11	PERRO NEGRO: 0.911, avg: 0.743
+UY:2023-12	Cupido: 0.914, avg: 0.743
+UY:2024-01	Cupido: 0.914, avg: 0.736
+VE:2023-10	AMARGURA: 0.920, avg: 0.759
+VE:2023-11	AMARGURA: 0.920, avg: 0.769
+VE:2023-12	AMARGURA: 0.920, avg: 0.762
+VE:2024-01	AMARGURA: 0.920, avg: 0.774
+VN:2023-10	Không Phải Gu: 0.922, avg: 0.710
+VN:2023-11	Thích Em Hơi Nhiều: 0.920, avg: 0.703
+VN:2023-12	Thích Em Hơi Nhiều: 0.920, avg: 0.705
+VN:2024-01	Thích Em Hơi Nhiều: 0.920, avg: 0.712
+ZA:2023-10	Bokke: 0.944, avg: 0.726
+ZA:2023-11	Lovin On Me: 0.943, avg: 0.729
+ZA:2023-12	Lovin On Me: 0.943, avg: 0.752
+ZA:2024-01	Lovin On Me: 0.943, avg: 0.753
